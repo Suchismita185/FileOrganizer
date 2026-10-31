@@ -31,7 +31,7 @@ No external libraries are required.
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FileOrganizer.git
+git clone https://github.com/Suchismita185/FileOrganizer.git
 ```
 
 Navigate to the project directory:
